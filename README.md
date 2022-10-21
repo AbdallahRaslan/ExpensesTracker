@@ -28,6 +28,6 @@ This app is built with React.js along with HTML and CSS. It uses NPM as package 
    ```
 
 3. Run Start 
-  ```sh
-   npm install
+   ```sh
+   npm start
    ```
